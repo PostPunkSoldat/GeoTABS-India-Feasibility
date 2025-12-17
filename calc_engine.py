@@ -1,6 +1,3 @@
-import numpy as np
-import pandas as pd
-
 # India-specific climate zones (ECBC-based)
 INDIA_CLIMATE_ZONES = {
     "Hot-Dry": {
